@@ -13,3 +13,4 @@
 11. git merge nueva-rama -> Se fuciona todo lo de nueva-rama  a la rama que estamos usando, en este caso master. 
 12. git branch -d nueva-rama
 13. git push            ->Despliega los cambios al repositorio remoto, usar git add., git commit - m "" , y despues git push
+14. git commit -am "msg"     ->Se realizan los comandos git add ., y git commit -m "msg" juntoc en un solo comando
