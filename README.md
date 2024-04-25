@@ -6,4 +6,5 @@
 5. git checkout -- .    -> Este comando nos sirve para revertir al ultimo Checkout y recuperar cambios o incluso si borramos algun archivo
 6. git log              -> Nos muestra un historico de todos los commits que se han hecho
 7. git commit --amend   -> Esto nos va a permitir modificar informacion del ultimo comit, como el comentario
-8. git git checkout -b nueva-rama
+8. git git checkout -b nueva-rama -> Este comando es para crear una nueva rama Branch
+9. git branch           -> Esto nos hace un listado de las ramas
